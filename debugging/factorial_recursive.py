@@ -4,10 +4,10 @@ import sys
 def factorial(n):
 	"""
 	Calculates the factorial of a given number recursively.
-	
+
 	Parameters:
 	n (int): The number for which the factorial is calculated.
-	
+
 	Returns:
 	int: The factorial of the input number.
 	"""
